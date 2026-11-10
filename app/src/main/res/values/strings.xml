@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_PARCIAL2_P1_MONTSE</string>
+    <string name="p1titulo">Manejo de Componentes Views</string>
+    <string name="p1btn_1">primer boton</string>
+    <string name="p1btn_2">segundo boton</string>
+    <string-array name="p1sp1">
+        <item>Chihuahua</item>
+    <item>Estado de Mexico</item>
+    <item name="p1ps1">Jalisco</item>
+    <item>Michoacan</item>
+    <item name="">Puebla</item>
+
+</resources>
